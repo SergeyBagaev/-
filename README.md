@@ -1,13 +1,13 @@
 Обо мне
-Привет! Меня зовут {Сергей}, я начинающий тестировщик.
+Привет! Меня зовут Сергей, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и опытов.
 
-Навыки и технологии
-Jira, qase.io, SQL,  Postman, Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git. Chrome DevTools_
+Навыки, сервисы и WEB-приложения широко используемые в работе:
+Jira, Qase.io, PostgreSQL,  Postman, Fiddler, Swagger, Trello,
+SoapUI, Android Studio, xCode, Python, Git, Chrome DevTools
 
 Проекты
-Проект 1: тест веб-приложений для университета Skyeng
+Тестирование программного продукта для онлайн-университета (
 
 Что нужно было сделать:
 
